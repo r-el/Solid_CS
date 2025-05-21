@@ -8,5 +8,9 @@ namespace Solid_Principle
 {
     internal class RocketLauncher
     {
+        public void LaunchRocket()
+        {
+            Console.WriteLine("Rocket launched!");
+        }
     }
 }
